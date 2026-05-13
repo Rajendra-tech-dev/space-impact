@@ -1,6 +1,6 @@
 # 🚀 Space Impact  
 
-A retro-style 2D space shooter built using **HTML5 Canvas, CSS, and JavaScript**. Inspired by classic arcade game (Nokia space-impact), this project delivers fast-paced gameplay with smooth animations, enemy waves, and  power-ups.
+A retro-style 2D space shooter built using **HTML5 Canvas, CSS, and JavaScript**. Inspired by classic arcade game (Nokia space-impact), this project delivers fast-paced gameplay with smooth animations, enemy waves, and power-ups.
 
 ---
 
@@ -13,7 +13,7 @@ A retro-style 2D space shooter built using **HTML5 Canvas, CSS, and JavaScript**
 - 💥 Particle explosion effects  
 - 🌌 Animated starfield background  
 - 📊 HUD displaying Score, Level, and Lives  
-- 📱 Mobile-friendly controls (touch support)  
+- 📱 Mobile-friendly controls (touch support)
 - ⌨️ Keyboard controls for desktop  
 - 🔁 Game states: Menu, Playing, Dead, Game Over  
 
